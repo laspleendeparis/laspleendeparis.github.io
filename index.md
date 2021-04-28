@@ -1,5 +1,3 @@
-### Biography
-
 I'm an electrophysicist, inventor, entrepreneur, brother-in-law of a [biologist](https://westonbraininstitute.ca/funded-research/applicant/dr-holger-wille/) on the team that [discovered](https://www.nobelprize.org/prizes/medicine/1997) and [published the earliest studies on prions](https://pubmed.ncbi.nlm.nih.gov/7479957/), and father of a highly-ranked competitive programmer. I have over 30 years of experience in nanotechnology and optoelectronics across four countries and three continents.
 
 I earned my Ph.D. in Electrical Engineering from the State University of New York at Stony Brook in 1991. Upon graduation, I began to work as a Technical Scientist at Bell Labs in Murray Hill, New Jersey. I contributed to the development of super-resolved fluorescence microscopy, which my colleague Eric Betzig and two others won the Nobel Prize in Chemistry 2014 for. Today, super-resolved fluorescence microscopy is also known as nanoscopy.
@@ -40,6 +38,6 @@ Kuo TN, Yeh JH, Lee HJ, Chen CA, **Jeng GK,** Lin CP. [Etch of gallium nitride a
 
 **Jeng DG,** Tuan HS, Salat RF, Fricano GJ, Chen FY. [Diamond/silicon heterojunction structures.](https://www.sciencedirect.com/science/article/abs/pii/0925963592901155) *Diamond and Related Materials*, Volume 1, Issue 9, 25 September 1992, Pages 945-948; [https://doi.org/10.1016/0925-9635(92)90115-5](https://doi.org/10.1016/0925-9635(92)90115-5)
  
-**Jeng DGK.** [Metastable state diamond growth and its applications to electronic devices.](https://ui.adsabs.harvard.edu/abs/1991PhDT........35J/abstract)Thesis (Ph.D.) State University of New York at Stony Brook, 1991. *Dissertation Abstracts International,* Volume: 52-09, Section: B, page: 4895.
+**Jeng DGK.** [Metastable state diamond growth and its applications to electronic devices.](https://ui.adsabs.harvard.edu/abs/1991PhDT........35J/abstract) Thesis (Ph.D.) State University of New York at Stony Brook, 1991. *Dissertation Abstracts International,* Volume: 52-09, Section: B, page: 4895.
 
 Lei TF & **Jeng GK.** [The Pd-Zn system for ohmic contacts to *p*-type GaP.](https://www.sciencedirect.com/science/article/abs/pii/0038110188900937) *Solid-State Electronics*, Volume 31, Issue 1, Pages 109–113, (January 1988); [https://doi.org/10.1016/0038-1101(88)90093-7](https://doi.org/10.1016/0038-1101(88)90093-7)
