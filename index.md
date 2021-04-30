@@ -2,6 +2,9 @@ I'm an electrophysicist, inventor, entrepreneur, brother-in-law of a [biologist]
 
 I earned my Ph.D. in Electrical Engineering from the State University of New York at Stony Brook in 1991. Upon graduation, I began to work as a Technical Scientist at Bell Labs in Murray Hill, New Jersey. I contributed to the development of super-resolved fluorescence microscopy, which my colleague Eric Betzig and two others won the Nobel Prize in Chemistry 2014 for. Today, super-resolved fluorescence microscopy is also known as nanoscopy.
 
+![EPFL](EPFL.jpg)
+*Millennium Technology Laureate Michael Grätzel (left) and me (right) in his office at École polytechnique fédérale de Lausanne. I developed commercial products based on Prof. Grätzel's invention, the dye-sensitized solar cell, in a business partnership.*
+
 From 1998 to 2008, I served as the Chief Executive Officer of Nano-Architect Research Corporation in Hsinchu, Taiwan, which [developed many modern revolutionary high-density plasma technologies under my leadership](https://www.patentguru.com/assignee/nano-architect-research-corporation). In 2008, I was a Materials Science Specialist at [G24 Innovations](https://gcell.com/) in Cardiff, Wales, where I was responsible for dye-sensitized solar cell materials science and cell diagnostics. In 2009, I joined SolarPrint in Dublin, Ireland as a Technical Director leading the SolarPrint Research & Development group.
 
 ### Issued Patents
