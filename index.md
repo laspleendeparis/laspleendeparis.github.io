@@ -39,6 +39,8 @@ Kuo TN, Yeh JH, Lee HJ, Chen CA, **Jeng GK,** Lin CP. [Etch of gallium nitride a
 
 **Jeng DG,** Tuan HS, Salat RF, Fricano GJ. [Thin‐film Al/diamond Schottky diode over 400‐V breakdown voltage.](https://aip.scitation.org/doi/10.1063/1.346940) *Journal of Applied Physics 68*, Volume 5902 (1990); [https://doi.org/10.1063/1.346940](https://doi.org/10.1063/1.346940)
 
+**Jeng DG,** Tuan HS, Salat RF, Fricano GJ. [Oriented cubic nucleations and local epitaxy during diamond growth on silicon {100} substrates.](https://aip.scitation.org/doi/abs/10.1063/1.103013) *Applied Physics Letters* 56, Volume 1968 (1990). [https://doi.org/10.1063/1.103013](https://doi.org/10.1063/1.103013)
+
 **Jeng DG,** Tuan HS, Salat RF, Fricano GJ, Chen FY. [Diamond/silicon heterojunction structures.](https://www.sciencedirect.com/science/article/abs/pii/0925963592901155) *Diamond and Related Materials*, Volume 1, Issue 9, 25 September 1992, Pages 945-948; [https://doi.org/10.1016/0925-9635(92)90115-5](https://doi.org/10.1016/0925-9635(92)90115-5)
  
 **Jeng DGK.** [Metastable state diamond growth and its applications to electronic devices.](https://ui.adsabs.harvard.edu/abs/1991PhDT........35J/abstract) Thesis (Ph.D.) State University of New York at Stony Brook, 1991. *Dissertation Abstracts International,* Volume: 52-09, Section: B, page: 4895.
